@@ -1,8 +1,11 @@
 {
-  "versao": "1.500.65",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_65.rbz",
+  "versao": "1.500.66",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_66.rbz",
   "novidades": [
-    "Novo botão Rampa (barra Obra): selecione as faces do caminho no chão — reto ou em curva, inteiro ou em faixas — e dê a altura. O caminho sobe por igual do começo ao fim (nas curvas, dentro e fora sobem juntos). Inverter, em linha reta, suave nas pontas, paredes laterais até o chão e fechar a ponta alta. Mostra o comprimento e a inclinação (aviso acima de 8,33% da NBR 9050) e dá para digitar a inclinação. Selecione a rampa e mude os números ao vivo."
+    "Novo botão Escada (barra Obra): escada redonda (raio de dentro, de fora e giro, com coluna central) ou pelo caminho (reto, em L, em U ou em curva — em leque nas curvas). Calcula os espelhos e confere Blondel, piso, espelho e o piso de dentro.",
+    "Estrutura de concreto da escada: caixa maciça até o chão, laje por baixo (inclinada, na espessura que você der) ou sem estrutura. Pisos com bocel e espelhos em pedra, peça por peça, e a lista de peças com m² e metros de bocel para o orçamento (copiar a lista).",
+    "Rampa: patamares da NBR 9050 sozinhos, laje com espessura ou paredes até o chão, corrimão simples ou duplo (com prolongamento de 30 cm) e guarda-corpo de vidro, paginação das placas com a quantidade (e a perda), pegar a altura clicando no ponto de chegada e clicar a ponta de baixo.",
+    "Desenhar o caminho (na Rampa e na Escada): clique os pontos do eixo, digite a largura ou r + raio para arredondar as curvas, Enter termina."
   ],
   "data": "2026-10-18"
 }
