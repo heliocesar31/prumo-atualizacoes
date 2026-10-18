@@ -1,8 +1,8 @@
 {
-  "versao": "1.500.64",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_64.rbz",
+  "versao": "1.500.65",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_65.rbz",
   "novidades": [
-    "Atualização automática ligada: o Prumo confere sozinho se tem versão nova (uma vez por dia) e instala com um clique."
+    "Novo botão Rampa (barra Obra): selecione as faces do caminho no chão — reto ou em curva, inteiro ou em faixas — e dê a altura. O caminho sobe por igual do começo ao fim (nas curvas, dentro e fora sobem juntos). Inverter, em linha reta, suave nas pontas, paredes laterais até o chão e fechar a ponta alta. Mostra o comprimento e a inclinação (aviso acima de 8,33% da NBR 9050) e dá para digitar a inclinação. Selecione a rampa e mude os números ao vivo."
   ],
   "data": "2026-10-18"
 }
