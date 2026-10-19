@@ -1,8 +1,9 @@
 {
-  "versao": "1.500.81",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_81.rbz",
+  "versao": "1.500.82",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_82.rbz",
   "novidades": [
-    "Como funciona: animações do Prumo Espelho (cópia espelhada sem escala negativa, cuba trocando de lado e veio em livro), do Alinhar e distribuir (alinhar pela base e espaço igual) e do Alinhar / encostar peça (a peça gira e encosta na parede). Agora são 42 ferramentas animadas."
+    "Prumo Espelho e cortes em 45°: peça do painel que recebeu corte 45° na face, meia-esquadria na ponta ou outro corte à mão agora é espelhada pela geometria — os cortes vão junto, do lado espelhado (antes a peça era refeita pelos dados e o corte sumia). Na peça avulsa com meia-esquadria, o corte guardado também troca de lado, e volta certo quando a peça é refeita.",
+    "Correção: a escada feita pelo painel saía espelhada (o Prumo confundia a altura do espelho do degrau com a marca de “peça espelhada”). Ao refazer ou editar uma escada, ela sai do lado certo."
   ],
   "data": "2026-10-19"
 }
