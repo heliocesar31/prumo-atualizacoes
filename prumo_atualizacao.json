@@ -1,11 +1,10 @@
 {
-  "versao": "1.500.70",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_70.rbz",
+  "versao": "1.500.71",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_71.rbz",
   "novidades": [
-    "Céu HDRI no Render: escolha um arquivo .hdr ou .exr (céu, estúdio, interior), gire para escolher de onde vem a luz e ajuste a força — luz e reflexos bem mais naturais. Fica lembrado e carrega junto com a vista.",
-    "Ajustes da foto na própria janela: contraste, saturação, temperatura (mais fria ou mais quente), vinheta, brilho em volta das luzes e nitidez. Valem no fim do render e na imagem salva; “Ver antes/depois” compara e “Zerar” volta.",
-    "Câmera com foco: Fundo desfocado como numa foto — clique o ponto de foco na imagem (a bancada, por exemplo) e ajuste o desfoque.",
-    "Render em fila: marque as cenas e clique uma vez — cada uma é renderizada, limpa (se a IA estiver ligada), com os ajustes da foto, e salva com o nome da cena."
+    "Arredondar quinas (barra Peças): clique na quina e ela arredonda no raio digitado (ex.: 50) — quina de bancada, boleado da borda, canto de nicho. Funciona dentro de grupos; arestas já selecionadas arredondam todas de uma vez. Por enquanto, só quinas para fora.",
+    "Nova barra Vista e seleção: Isolar (mostra só o selecionado; clique de novo mostra tudo), Ocultar a seleção, Mostrar tudo, Olhar de frente para a face, Eixos pela peça (os eixos seguem a aresta clicada) e Voltar os eixos. Dá para pôr atalho no teclado.",
+    "Rampa: botão Virar escada — a rampa selecionada vira escada no mesmo caminho, com a mesma altura e o mesmo corrimão."
   ],
-  "data": "2026-10-18"
+  "data": "2026-10-19"
 }
