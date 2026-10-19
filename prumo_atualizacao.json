@@ -1,8 +1,8 @@
 {
-  "versao": "1.500.86",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_86.rbz",
+  "versao": "1.500.87",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_87.rbz",
   "novidades": [
-    "Guarda-corpo 3D com tubo redondo: o encontro do montante com o nó (esfera) e com o corrimão não fica mais serrilhado. Os tubos da mesma cor viram uma peça só, com o encontro recortado limpo — agora também sem o SketchUp Pro (o Prumo faz a união sozinho quando a do SketchUp não está disponível)."
+    "Guarda-corpo 3D de vidro sem montantes (no perfil do piso, sem corrimão, mureta + vidro): o vidro corrido é dividido em painéis de até 1.200 mm (ajustável em “Painel de vidro máximo”), com junta de 6 mm. Marcando “Pinças no vidro”, entram os conectores vidro-vidro nas juntas e nos cantos — 2 ou 3 por junta, em inox. “Vidro sem corrimão” já sai com os conectores."
   ],
   "data": "2026-10-19"
 }
