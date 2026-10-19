@@ -1,9 +1,8 @@
 {
-  "versao": "1.500.72",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_72.rbz",
+  "versao": "1.500.73",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_73.rbz",
   "novidades": [
-    "Medição de obra (barra Obra): meça no celular, na página “Medição de obra” — paredes, diagonais (o canto fora de esquadro sai no ângulo real), pontas encostadas, altura do móvel, frontão, saia e recortes (cuba, cooktop, torneira, tomada), com croqui ao vivo. Copie o código, mande pelo WhatsApp e cole aqui: o Prumo levanta as paredes, marca os recortes e abre a bancada no painel já no formato certo.",
-    "Pacote de produção (barra Fluxo): um clique junta numa pasta do pedido o plano de corte, as etiquetas (A4, 2 × 7), a lista de peças (planilha), insumos, lista de carga, checklist de instalação, conferência de entrega, o DXF da CNC (peças avulsas), a imagem do projeto e a medição de obra — com uma página “Abrir primeiro” com o resumo (peças, chapas, horas de produção)."
+    "Puxar sem abrir (barra Peças): Empurrar/Puxar direto na face de grupos e componentes, sem entrar neles. Clique na face, mova o mouse — ou encoste num ponto do modelo para puxar até ele — e clique, ou digite a medida. Duplo clique repete a última medida; Ctrl deixa a face de origem; Shift torna o componente único (sem Shift, as cópias do componente mudam juntas, como no SketchUp). Grupos copiados viram únicos sozinhos."
   ],
   "data": "2026-10-19"
 }
