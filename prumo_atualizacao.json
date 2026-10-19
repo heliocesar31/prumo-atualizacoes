@@ -1,8 +1,12 @@
 {
-  "versao": "1.500.74",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_74.rbz",
+  "versao": "1.500.75",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_75.rbz",
   "novidades": [
-    "Puxar sem abrir agora funciona em curvas: clicando numa superfície suavizada (borda boleada, cilindro, canto arredondado), a superfície inteira anda por igual, sem afinar, e as faces vizinhas acompanham. A prévia mostra a curva toda."
+    "Menu em roda (barra Vista e seleção): um atalho abre 8 ferramentas em volta do mouse — aponte e clique. Escolha as 8 em “Configurar o menu em roda” e ponha o atalho em Janela › Preferências › Atalhos.",
+    "Arredondar quinas agora também faz quina para dentro (canto interno de bancada em L, recorte): a pedra ganha o arredondado.",
+    "Estender e ligar arestas (barra Peças): clique em duas arestas e elas esticam (ou são cortadas) até se encontrar; o segundo clique numa face estica a aresta até ela.",
+    "Puxar sem abrir: as setas travam a direção (→ vermelho, ← verde, ↑ azul, ↓ volta para a face) — puxa para o lado, inclusive em curva.",
+    "Ligar duas faces (barra Peças): selecione duas faces com o mesmo número de cantos e o Prumo liga as duas (ponte, túnel, duto, pé inclinado)."
   ],
   "data": "2026-10-19"
 }
