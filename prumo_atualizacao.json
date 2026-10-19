@@ -1,12 +1,9 @@
 {
-  "versao": "1.500.75",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_75.rbz",
+  "versao": "1.500.76",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_76.rbz",
   "novidades": [
-    "Menu em roda (barra Vista e seleção): um atalho abre 8 ferramentas em volta do mouse — aponte e clique. Escolha as 8 em “Configurar o menu em roda” e ponha o atalho em Janela › Preferências › Atalhos.",
-    "Arredondar quinas agora também faz quina para dentro (canto interno de bancada em L, recorte): a pedra ganha o arredondado.",
-    "Estender e ligar arestas (barra Peças): clique em duas arestas e elas esticam (ou são cortadas) até se encontrar; o segundo clique numa face estica a aresta até ela.",
-    "Puxar sem abrir: as setas travam a direção (→ vermelho, ← verde, ↑ azul, ↓ volta para a face) — puxa para o lado, inclusive em curva.",
-    "Ligar duas faces (barra Peças): selecione duas faces com o mesmo número de cantos e o Prumo liga as duas (ponte, túnel, duto, pé inclinado)."
+    "Medição de obra mais completa (página do celular): bancada em Ilha (sem paredes), pilar na parede (a pedra já sai recortada em volta), canto da frente das pontas livres reto, chanfrado ou arredondado (com a medida), tomada com a altura do piso e uma seção de Nichos (largura, altura, fundo e altura do piso). A página do celular foi atualizada no mesmo endereço.",
+    "No Prumo, a medição traz tudo isso: a bancada abre no painel já com os pilares e os cantos recortados, a ilha não levanta paredes, a tomada é marcada na parede na altura certa e os nichos aparecem com o botão “Abrir o Nicho do Prumo”."
   ],
   "data": "2026-10-19"
 }
