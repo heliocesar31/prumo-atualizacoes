@@ -1,10 +1,9 @@
 {
-  "versao": "1.500.71",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_71.rbz",
+  "versao": "1.500.72",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_72.rbz",
   "novidades": [
-    "Arredondar quinas (barra Peças): clique na quina e ela arredonda no raio digitado (ex.: 50) — quina de bancada, boleado da borda, canto de nicho. Funciona dentro de grupos; arestas já selecionadas arredondam todas de uma vez. Por enquanto, só quinas para fora.",
-    "Nova barra Vista e seleção: Isolar (mostra só o selecionado; clique de novo mostra tudo), Ocultar a seleção, Mostrar tudo, Olhar de frente para a face, Eixos pela peça (os eixos seguem a aresta clicada) e Voltar os eixos. Dá para pôr atalho no teclado.",
-    "Rampa: botão Virar escada — a rampa selecionada vira escada no mesmo caminho, com a mesma altura e o mesmo corrimão."
+    "Medição de obra (barra Obra): meça no celular, na página “Medição de obra” — paredes, diagonais (o canto fora de esquadro sai no ângulo real), pontas encostadas, altura do móvel, frontão, saia e recortes (cuba, cooktop, torneira, tomada), com croqui ao vivo. Copie o código, mande pelo WhatsApp e cole aqui: o Prumo levanta as paredes, marca os recortes e abre a bancada no painel já no formato certo.",
+    "Pacote de produção (barra Fluxo): um clique junta numa pasta do pedido o plano de corte, as etiquetas (A4, 2 × 7), a lista de peças (planilha), insumos, lista de carga, checklist de instalação, conferência de entrega, o DXF da CNC (peças avulsas), a imagem do projeto e a medição de obra — com uma página “Abrir primeiro” com o resumo (peças, chapas, horas de produção)."
   ],
   "data": "2026-10-19"
 }
