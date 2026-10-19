@@ -1,10 +1,9 @@
 {
-  "versao": "1.500.68",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_68.rbz",
+  "versao": "1.500.69",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_69.rbz",
   "novidades": [
-    "Render sem ruído: IA que tira o ruído no fim (Open Image Denoise, na placa de vídeo), guiada pela cor e pela orientação de cada superfície — com “Boa” a imagem já sai limpa. Nos espelhos, o guia é a própria cena refletida, então o reflexo fica nítido. Sem suporte na placa, entra um filtro guiado. Botões “Tirar o ruído agora” e “Ver antes/depois”.",
-    "Espelhos e vidros sem distorção: faces planas vão com a normal reta (a suavização do SketchUp entortava o reflexo), vidro fino sem refração falsa, espelho prateado de verdade (92%) e sem relevo.",
-    "Mapas por material (⚙): Cor (carregar outro mapa, brilho, contraste, saturação e tingir), Altura/relevo (da própria textura, mapa de altura ou mapa normal, com força e inverter), Reflexo (igual em tudo, da textura ou mapa de rugosidade, com contraste e inverter para mapa de brilho) e Iluminação (acender pela textura, cor única ou mapa de luz — ônix retroiluminado, LED — com força e cor da luz). Mais força do reflexo, verniz, escala e girar 90°."
+    "Luminárias IES no Render: selecione a luminária (componente ou grupo), clique em Marcar luminária (IES) e escolha o arquivo .ies do fabricante — todas as cópias acendem com a curva de luz real (o desenho de luz na parede). Força por luminária e geral, cor em Kelvin (2700 a 6500 K), ligar/desligar e tirar o IES. A luz sai do fundo da luminária, apontando para baixo do componente.",
+    "Luz Noite no Render: céu quase escuro, para a cena só com as luminárias."
   ],
   "data": "2026-10-18"
 }
