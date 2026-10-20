@@ -1,8 +1,8 @@
 {
-  "versao": "1.500.123",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_123.rbz",
+  "versao": "1.500.124",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_124.rbz",
   "novidades": [
-    "Lista de peças, Salvar imagem: a imagem agora sai igual ao PDF — título com o modelo e a data, os quadros de resumo, a tabela com linhas finas e a nota das medidas embaixo (em alta resolução)."
+    "Lista de peças: linhas alternadas em cinza claro (zebra) na tela, na impressão/PDF e na imagem — fica mais fácil seguir a linha de cada peça."
   ],
   "data": "2026-10-20"
 }
