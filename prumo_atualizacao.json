@@ -1,10 +1,10 @@
 {
-  "versao": "1.500.127",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_127.rbz",
+  "versao": "1.500.128",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_128.rbz",
   "novidades": [
-    "Ilha (modelos prontos): o fundo agora sai igual ao seu modelo — o fechamento interno de trás vai até a face de trás cortado em 45° com a saia do fechamento, e a faixa da cava de LED encontra a saia traseira em 45° (como a saia com o tampo). Na lista de corte, a faixa do LED e o interno de trás com a medida cheia e o encontro em 45°.",
-    "Fechamento interno da frente: com saia rente ao tampo (saia de 2 cm), o interno agora leva o recorte da faixa — antes a faixa ficava encavalada no interno.",
-    "Modelo 'Ilha com fechamento de um lado': o outro lado é parede — sai sem saia lateral, e a faixa e o fundo vão até a parede."
+    "Nova ferramenta Peças na aresta (Peças › ao lado do Acabamento na aresta): saia, frontão, guarnição e faixa em qualquer peça, até desenhada à mão. Escolha a peça e as medidas, clique nas arestas de cima (ou na face para a volta toda) e Enter.",
+    "Quinas: em cada quina aparece uma marca — clique para trocar entre 45° (meia-esquadria), reto passando uma peça ou reto passando a outra (o traço azul mostra qual passa). Saia, guarnição e faixa começam em 45°; frontão, reto.",
+    "Paramétrica: clique numa peça feita pela ferramenta e mude altura, largura, espessura, encontro com o tampo ou as quinas — o conjunto se refaz na hora. Botão Apagar conjunto tira todas."
   ],
   "data": "2026-10-20"
 }
