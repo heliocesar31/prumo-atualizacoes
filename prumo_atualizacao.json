@@ -1,8 +1,8 @@
 {
-  "versao": "1.500.93",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_93.rbz",
+  "versao": "1.500.94",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_94.rbz",
   "novidades": [
-    "Área molhada com guarnição e seca apoiada: a guarnição da frente (e o frontão com recorte) da molhada agora para na face da área seca — antes corria até o fim e entrava embaixo da seca, batendo nela (aparecia a colisão “Saia × Guarnição”). A lista de peças e o orçamento contam a guarnição só no trecho que aparece."
+    "Área molhada com guarnição e seca apoiada, como na marmoraria: a guarnição atravessa a bancada no encontro com a seca (o degrau que se vê), encontra a da frente em 45° e o frontão passa por cima dela; a seca fica apoiada logo depois, no mesmo nível do alto da guarnição. A “Guarnição do encontro” entra na lista de peças e no orçamento."
   ],
   "data": "2026-10-20"
 }
