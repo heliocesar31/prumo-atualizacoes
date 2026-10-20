@@ -1,9 +1,8 @@
 {
-  "versao": "1.500.108",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_108.rbz",
+  "versao": "1.500.109",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_109.rbz",
   "novidades": [
-    "Área molhada e seca: cada parte com a sua medida — novo campo Comprimento da área molhada; Comprimento de cada seca em linha; e na seca em L, Largura na bancada e Profundidade (da parede até a ponta). O comprimento da bancada passa a ser a soma (fica travado), então mudar uma medida não some mais com a área seca.",
-    "Seca apoiada (com ou sem guarnição): a seca em L também vai da parede do fundo até a ponta, apoiada na ponta da molhada."
+    "Fechamento interno: reconhece a saia e a faixa da frente e leva o recorte — agora também quando a saia tem só a espessura (faixa rente ao tampo, como embaixo da área seca apoiada). Antes o interno subia até o tampo e batia na faixa."
   ],
   "data": "2026-10-20"
 }
