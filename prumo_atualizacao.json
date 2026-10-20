@@ -1,8 +1,9 @@
 {
-  "versao": "1.500.125",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_125.rbz",
+  "versao": "1.500.126",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_126.rbz",
   "novidades": [
-    "Lista de peças, Salvar imagem: mais resolução (4× a tela) e a imagem leva a resolução de impressão gravada — no LayOut ela entra com 26 cm de largura, sem ser reduzida e borrada."
+    "Lista de peças, modo Entrega: botão Corte | Entrega no topo. Em Entrega a lista vira romaneio por volume — o que vai junto (bancada com saia, guarnição e cuba coladas) e o que vai solto (frontão, rodapé, soleira), com medida montada, peso e quantas pessoas para carregar, cliente, endereço, data e espaço para assinatura. Sai em PDF e imagem.",
+    "Colar peças / Descolar peças: botões novos (barra de peças, menu e botão direito, e dentro da lista). Selecione as peças e cole: viram um volume só na entrega. Descolar marca a peça para ir solta. Sem marcação, o Prumo junta sozinho pelo encosto entre as peças."
   ],
   "data": "2026-10-20"
 }
