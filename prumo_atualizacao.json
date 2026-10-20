@@ -1,8 +1,9 @@
 {
-  "versao": "1.500.136",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_136.rbz",
+  "versao": "1.500.137",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_137.rbz",
   "novidades": [
-    "Correção: o SketchUp fechava (Bug Splat) ao clicar em Outro lado com a peça sozinha. A janela de aviso aberta de dentro do clique do botão derrubava o programa; agora os avisos dos botões da peça aparecem num quadrinho no canto de baixo (sem janela) e a ação roda depois do clique."
+    "Coluna da peça (canto esquerdo) com mais botões, só os que servem para o que está selecionado, em grupos que abrem e fecham (clique no título): Peça (girar, deitar, espelhar, outro lado, levar, alinhar) · Paramétrico (alças, medidas, editar no painel; no móvel: vão / trocar) · Pedra (peças na aresta, dividir/emendar, furo/recorte, cantos redondos, alertas) · Projeto (lista, colar/descolar, nomear, etiquetas).",
+    "Quadro de informações em cima da coluna: nome, medidas (C × P × A), pedra, m², peso e quantas pessoas para carregar."
   ],
   "data": "2026-10-20"
 }
