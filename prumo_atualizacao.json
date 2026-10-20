@@ -1,8 +1,8 @@
 {
-  "versao": "1.500.102",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_102.rbz",
+  "versao": "1.500.103",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_103.rbz",
   "novidades": [
-    "Área seca apoiada: a ponta da seca que fica em cima da molhada não leva mais o acabamento de borda (chanfro, boleado, engrosso…) — ela é encontro, não borda aparente. No degrau, a ponta da seca que aparece continua com acabamento."
+    "Área seca (apoiada, degrau ou em L): a ponta da seca que encosta na molhada nunca leva acabamento de borda — só os lados que você marcar. Antes o Prumo punha o acabamento ali sozinho, mesmo desmarcado."
   ],
   "data": "2026-10-20"
 }
