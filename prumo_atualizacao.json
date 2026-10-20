@@ -1,10 +1,8 @@
 {
-  "versao": "1.500.132",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_132.rbz",
+  "versao": "1.500.133",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_133.rbz",
   "novidades": [
-    "Alças da bancada com área seca: as pontas puxam a seca reta daquele lado e há uma alça na emenda para a molhada. Alça da torneira (distância da cuba). Puxando a ponta da esquerda, a cuba e o cooktop ficam no lugar.",
-    "Ferramenta de vão: Ponta curva (lateral em ¼ de círculo, põe ou tira do lado do vão clicado) e Chapa (6 a 36 mm, num segundo menu redondo).",
-    "Furador: retângulo com os cantos redondos (campo Raio dos cantos) e os modelos 'Nicho na porta 200×600 R60' e 'Visor redondo Ø200' — o recorte vazado na porta, como no vídeo."
+    "Alinhar (botão em cima da peça): depois de clicar na face da peça, dá para clicar numa linha de eixo — vermelho, verde ou azul — ou numa linha guia. A linha acende e a face da peça vai até ela (Tab: encostar ou mesmo plano). Ex.: a frente da peça no eixo vermelho e a ponta no eixo verde."
   ],
   "data": "2026-10-20"
 }
