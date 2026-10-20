@@ -1,8 +1,10 @@
 {
-  "versao": "1.500.110",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_110.rbz",
+  "versao": "1.500.111",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_111.rbz",
   "novidades": [
-    "Área molhada e seca: nova escolha “Área seca em” — só do lado direito, só do lado esquerdo ou dos dois lados. Ao trocar de lado a seca leva junto o tipo (em linha ou em L) e as medidas."
+    "Ilha (saia no fundo) com fechamento lateral — de um lado ou dos dois: atrás vão as mesmas peças da frente, a saia na frente do fechamento (até o piso, em 45°) e o fechamento interno.",
+    "Novo em Fechamento lateral: Fundo recuado com LED (ilha) — placa de fechamento atrás, recuada (Recuo do fundo, 120 mm), do piso até o tampo; embaixo do tampo, no recuo, a faixa com a cava para a fita de LED (20 × 15 mm, a 20 mm da placa), no lugar da faixa traseira; o interno de trás vai do fundo até a placa, embaixo da faixa.",
+    "Corte 45° na face: agora corta a ponta da saia em meia-esquadria (e peças com a lateral recortada, como a saia ripada) — quando a lateral da ponta não é uma aresta só, a peça é cortada pelo plano do 45°, em vez de recusar."
   ],
   "data": "2026-10-20"
 }
