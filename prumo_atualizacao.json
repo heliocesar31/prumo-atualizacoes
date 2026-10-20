@@ -1,8 +1,8 @@
 {
-  "versao": "1.500.104",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_104.rbz",
+  "versao": "1.500.105",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_105.rbz",
   "novidades": [
-    "Área seca em degrau: sem a guarnição atravessando a bancada no encontro (a faixa em pé encostada na seca). A guarnição da frente da molhada vai até a seca e encosta na saia do degrau, como na apoiada."
+    "Área seca em linha com guarnição na molhada: a seca fica sempre no nível do alto da guarnição, apoiada na ponta da molhada — sem degrau mais alto e sem saia no encontro (o campo Encontro com a molhada fica travado nesse caso)."
   ],
   "data": "2026-10-20"
 }
