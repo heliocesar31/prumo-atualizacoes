@@ -1,8 +1,8 @@
 {
-  "versao": "1.500.96",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_96.rbz",
+  "versao": "1.500.97",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_97.rbz",
   "novidades": [
-    "Área seca apoiada com guarnição: a guarnição do encontro agora sai também quando o encaixe (quanto a molhada entra embaixo da seca, 40 mm) é menor que a largura da guarnição (50 mm) — antes, nesse caso, ela não era feita e aparecia a lateral da seca em cima do tampo da molhada."
+    "Área seca apoiada com guarnição na molhada: a saia da frente da seca agora vai até o fim dela (antes parava 4 cm antes, deixando a ponta do tampo sem saia e um dente por baixo), e a saia da molhada começa depois do encaixe — sem as duas saias batendo uma na outra embaixo da seca."
   ],
   "data": "2026-10-20"
 }
