@@ -1,8 +1,8 @@
 {
-  "versao": "1.500.92",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_92.rbz",
+  "versao": "1.500.93",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_93.rbz",
   "novidades": [
-    "Bancadas rápidas: agora salva também bancada desenhada no SketchUp (ou reconhecida, ou com várias partes num grupo) — ela vai inteira, como está, e entra de novo com um clique em Inserir. Antes só salvava peça feita pelo painel e a peça desenhada ficava sem salvar. Exportar/Importar leva a peça desenhada junto."
+    "Área molhada com guarnição e seca apoiada: a guarnição da frente (e o frontão com recorte) da molhada agora para na face da área seca — antes corria até o fim e entrava embaixo da seca, batendo nela (aparecia a colisão “Saia × Guarnição”). A lista de peças e o orçamento contam a guarnição só no trecho que aparece."
   ],
   "data": "2026-10-20"
 }
