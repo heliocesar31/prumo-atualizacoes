@@ -1,9 +1,8 @@
 {
-  "versao": "1.500.95",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_95.rbz",
+  "versao": "1.500.96",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_96.rbz",
   "novidades": [
-    "Área molhada com guarnição e área seca (degrau ou apoiada): a guarnição da frente não corre mais até bater na seca — ela fecha atravessando a bancada no encontro (Guarnição do encontro, em 45° com a da frente), com o frontão passando por cima. Vale no SketchUp, no 3D e na planta do painel, na lista de peças e no orçamento.",
-    "Área seca com guarnição na molhada: a saia da seca agora desce até o mesmo pé da saia da molhada (antes ficava 2 espessuras mais baixa, fazendo um dente embaixo no encontro)."
+    "Área seca apoiada com guarnição: a guarnição do encontro agora sai também quando o encaixe (quanto a molhada entra embaixo da seca, 40 mm) é menor que a largura da guarnição (50 mm) — antes, nesse caso, ela não era feita e aparecia a lateral da seca em cima do tampo da molhada."
   ],
   "data": "2026-10-20"
 }
