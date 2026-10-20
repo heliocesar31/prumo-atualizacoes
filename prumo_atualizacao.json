@@ -1,10 +1,11 @@
 {
-  "versao": "1.500.129",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_129.rbz",
+  "versao": "1.500.130",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_130.rbz",
   "novidades": [
-    "Peças na aresta, tipos novos: Saia + guarnição (a saia sobe até a guarnição em 45°, o tampo recua a espessura da saia), Fechamento lateral (até o piso, em 45° com o tampo, com a saia na frente e o fechamento interno) e Engrosso (duplo ou triplo, quinas em 45°).",
-    "Peças na aresta, cortes na peça: Pingadeira (sulco embaixo, paralelo à aresta) e Rebaixo (degrau em cima, para vidro ou tampa).",
-    "Tipos misturados na mesma passada: cada aresta guarda o tipo com que foi clicada — ex.: saia na frente e fechamento nos lados. Na quina saia × fechamento, a saia do fechamento sobe até o tampo em 45° na face da frente (como na ilha). Na ponta solta do fechamento, o losango liga/desliga a saia na frente."
+    "Paramétrico no modelo (inspirado no ArchiWood) — Alças: selecione a bancada ou o módulo e aparecem pontinhos com a medida. Arraste (ou clique e digite) e a peça se refaz inteira; o lado oposto fica parado. Bancada: comprimento pelas duas pontas, profundidade, posição e recuo da cuba, cooktop, altura do frontão e da saia. Módulo: largura pelos dois lados, altura e profundidade.",
+    "Caixa → peça: desenhe uma caixa no espaço (canto na parede, outro canto, puxe a frente, suba a altura — ou digite 1800;600;900) e escolha no menu redondo: bancada, ilha, balcão, balcão da pia, gaveteiro, aéreo, paneleiro, guarda-roupa ou nicho. A peça sai com as medidas da caixa, no lugar dela.",
+    "Ferramenta de vão: passe o mouse no móvel e o vão fica azul com largura e altura. Clique e escolha: + / − prateleira, divisória, prateleira fixa, gavetas, porta, 2 portas, nicho, cabideiro, juntar com o de cima, tirar a divisória.",
+    "Menu Prumo (redondo): as ferramentas paramétricas em volta do mouse. Dê um atalho de teclado a ele em Janela › Preferências › Atalhos."
   ],
   "data": "2026-10-20"
 }
