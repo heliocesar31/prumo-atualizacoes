@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.150",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_150.rbz",
-  "novidades": "Ilha com fundo recuado: as faixas laterais (embaixo das saias esquerda e direita) agora param na placa do fechamento do fundo, em vez de passar por ela até atrás. Novas opções no fundo recuado: 'Saia traseira' (desmarcada: o tampo vai até atrás e embaixo fica só a placa recuada; o fechamento lateral fica aparente atrás e o interno vai do fundo até a placa) e 'Faixa do recuo' (desmarcada: sem a faixa atrás; sem a saia traseira ela fica rente ao tampo). A opção passou a se chamar 'Fundo recuado (ilha)'.",
+  "versao": "1.500.151",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_151.rbz",
+  "novidades": "Ilha com fundo recuado e sem a saia traseira: as saias laterais (onde não há fechamento) e as faixas delas agora param na placa do fechamento do fundo — atrás da placa o tampo fica em balanço, com a borda reta. A faixa do recuo (se marcada) passa a ir de ponta a ponta atrás da placa.",
   "data": "2026-10-20"
 }
