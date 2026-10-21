@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.157",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_157.rbz",
-  "novidades": "Lavatório com bandeja: se saiu como uma bancada comum (sem a borda, a bandeja rebaixada e a plataforma da torneira), o SketchUp ainda estava com o código antigo do Prumo carregado — depois de atualizar é preciso fechar e abrir o SketchUp. Agora o painel avisa com uma faixa vermelha quando isso acontece. Modelo pronto novo: 'Lavatório com cuba esculpida' (80 × 54 cm, saia de 10 cm, cuba esculpida e torneira) — o lavatório liso, sem bandeja.",
+  "versao": "1.500.158",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_158.rbz",
+  "novidades": "Lavatório com bandeja: cada saia lateral sai como uma peça só, sem a emenda na lateral onde começa a plataforma (as faces no mesmo plano viram uma face só). No canto da lateral com a plataforma da torneira, a junta de cima ficou em 45°.",
   "data": "2026-10-21"
 }
