@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.151",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_151.rbz",
-  "novidades": "Ilha com fundo recuado e sem a saia traseira: as saias laterais (onde não há fechamento) e as faixas delas agora param na placa do fechamento do fundo — atrás da placa o tampo fica em balanço, com a borda reta. A faixa do recuo (se marcada) passa a ir de ponta a ponta atrás da placa.",
+  "versao": "1.500.152",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_152.rbz",
+  "novidades": "Cantos curvos na bancada e na ilha (passo Fechamento lateral › Cantos curvos): um raio para cada canto da ponta — esquerda/direita, frente/fundo (0 = reto). O fechamento (ou a saia) contorna a curva em peças retas, com juntas em meia-esquadria, e cada peça encontra o tampo em 45°; o tampo segue as mesmas divisões. 'Peças em cada curva' escolhe em quantas peças a curva é dividida (padrão 4) e o painel mostra a largura de cada uma. Raio = metade da profundidade nos dois cantos do mesmo lado faz a ponta em meia-lua. A saia, a faixa e o fechamento retos param onde a curva começa; no lado com curva saem a saia na frente do fechamento e o fechamento interno. As peças da curva entram na lista, no plano de corte e no orçamento.",
   "data": "2026-10-20"
 }
