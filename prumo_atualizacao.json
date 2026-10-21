@@ -1,9 +1,6 @@
 {
-  "versao": "1.500.148",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_148.rbz",
-  "novidades": [
-    "Barras reorganizadas por tipo de trabalho (as antigas Fluxo, Peças, Marmoraria e Marcenaria e Vista e seleção saem): Criar · Editar peça · Pedra e usinagem · Marcenaria · Quantitativos e produção · Documentação e render · Utilitários. A barra Obra (arquitetura) continua. As mesmas barras estão no menu Extensões › Prumo › Por tipo.",
-    "Correção: na barra Peças o botão do Rodapé e soleira automáticos abria o Menu em roda (os dois tinham o mesmo nome por dentro)."
-  ],
+  "versao": "1.500.149",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_149.rbz",
+  "novidades": "Ilha com fundo recuado (Saia › fechamento › Fundo recuado com LED): agora dá para escolher se tem ou não a cava para o LED e ajustar a distância da cava até a placa do fundo, a largura e a profundidade do rasgo (padrão 20 mm da placa, 20 × 15 mm). Sem a cava, a peça vira 'Faixa traseira (recuo)'. O recuo da placa do fundo continua no campo 'Recuo do fundo'.",
   "data": "2026-10-20"
 }
