@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.186",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_186.rbz",
-  "novidades": "Importar modelo 3D: escolha malha em quadrados (como no 3ds Max; plano vira uma face só, curva fica com a diagonal escondida) ou em triângulos, e veja no Arame da prévia antes de importar.",
+  "versao": "1.500.187",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_187.rbz",
+  "novidades": "Importar 3D: repetição da textura (Tiling), primitivas e TurboSmooth do 3ds Max, relevo/rugosidade/metal no SketchUp 2025, redução 2× mais rápida, botão Corrigir a malha, TGA/TIFF na prévia, lembra as escolhas e importa uma pasta inteira.",
   "data": "2026-10-22"
 }
