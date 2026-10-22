@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.182",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_182.rbz",
-  "novidades": "Modelo pronto \"Forno sob o cooktop\": tirei a gaveta de baixo, que não cabia (o forno de 60 cm ocupa quase toda a altura do módulo de 76 cm e a gaveta ficava com menos de 60 mm, o que travava a peça com o aviso \"Há divisão baixa demais\"). Agora é o forno no nicho, com a folga em cima para o corpo do cooktop.",
+  "versao": "1.500.183",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_183.rbz",
+  "novidades": "Fotos da frente dos eletrodomésticos (vidro e painel do forno, micro, TV, geladeira...): achado o motivo de saírem lisas. As peças repetidas do aparelho são componentes que guardam a peça num grupo dentro, e a foto procurava as faces só no primeiro nível. Agora procura dentro também. Rode Prumo › Ferramentas › Aplicar as fotos dos eletrodomésticos (ou Atualizar a peça).",
   "data": "2026-10-22"
 }
