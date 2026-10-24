@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.227",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_227.rbz",
-  "novidades": "Novo: Superfície entre curvas ao vivo — entre curvas, perfil no caminho e preencher contorno, sem buracos; mexeu nas curvas, ela se refaz.",
+  "versao": "1.500.228",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_228.rbz",
+  "novidades": "Novo: Gerador de plantas — escolha o espaço, a entrada e o programa; gera plantas com nota, prévia no modelo e cria paredes, portas, janelas, pisos e móveis.",
   "data": "2026-10-24"
 }
