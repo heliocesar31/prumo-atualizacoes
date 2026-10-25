@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.256",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_256.rbz",
-  "novidades": "Importar 3D: faixas com a foto esticada ficam com a cor média da foto.",
+  "versao": "1.500.257",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_257.rbz",
+  "novidades": "Importar 3D: corrigido o erro ao montar o modelo (ComponentDefinition).",
   "data": "2026-10-25"
 }
