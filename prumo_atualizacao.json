@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.386",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_386.rbz",
-  "novidades": "Nicho com moldura interna: no corte horizontal, a moldura encontra a lateral em 45° na frente.",
+  "versao": "1.500.387",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_387.rbz",
+  "novidades": "Cota girada: número sempre na vertical, lido de baixo para cima, à direita da linha quando a cota é vertical.",
   "data": "2026-11-02"
 }
