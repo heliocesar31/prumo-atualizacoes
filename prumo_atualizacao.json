@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.437",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_437.rbz",
-  "novidades": "Importar .max: o \"Pegar cor\" agora abre a foto mesmo quando ela é grande (render em alta resolução).",
-  "data": "2026-11-10"
+  "versao": "1.500.438",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_438.rbz",
+  "novidades": "Importar .max: \"Pegar da tela\" pega a cor de qualquer ponto do que está aberto no computador (quando o navegador da janela permitir).",
+  "data": "2026-11-11"
 }
