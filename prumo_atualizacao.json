@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.451",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_451.rbz",
-  "novidades": "Bancada pelo desenho: retiradas as cotas internas do SketchUp (as cotas ficam nas pranchas).",
+  "versao": "1.500.452",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_452.rbz",
+  "novidades": "Exportar medidas da bancada para a prancha (arquivo .json), com o botão na ferramenta de bancada.",
   "data": "2026-11-11"
 }
