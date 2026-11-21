@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.487",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_487.rbz",
-  "novidades": "Folha de projeto: tipos de cota novos (diâmetro, raio, nível e linha de chamada com texto), espessuras de linha escolhidas por camada (contorno, cotas, cortes, hachura, textos e marcas) e restauração do padrão. Na barra Prumo Seção.",
+  "versao": "1.500.488",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_488.rbz",
+  "novidades": "Folha de projeto: hachura automática nos cortes, pelo material de cada peça (madeira e MDF em diagonal, metal em horizontal, concreto em vertical, pedra só com contorno). Você ainda pode escolher um padrão fixo para o corte. Na barra Prumo Seção.",
   "data": "2026-11-21"
 }
