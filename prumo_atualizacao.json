@@ -1,6 +1,6 @@
 {
-  "versao": "1.500.486",
-  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_486.rbz",
-  "novidades": "Folha de projeto: cada corte pode ter escala escolhida (1:5 a 1:200, ou automática, com aviso quando não couber) e hachura (diagonal, cruzada, horizontal ou vertical) dentro do contorno do corte. Na barra Prumo Seção.",
+  "versao": "1.500.487",
+  "url": "https://raw.githubusercontent.com/heliocesar31/prumo-atualizacoes/main/prumo_1_500_487.rbz",
+  "novidades": "Folha de projeto: tipos de cota novos (diâmetro, raio, nível e linha de chamada com texto), espessuras de linha escolhidas por camada (contorno, cotas, cortes, hachura, textos e marcas) e restauração do padrão. Na barra Prumo Seção.",
   "data": "2026-11-21"
 }
